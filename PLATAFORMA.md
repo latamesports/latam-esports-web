@@ -50,9 +50,9 @@ La cuenta no será pública por defecto. El jugador podrá elegir individualment
 - Foto/avatar.
 - Juegos principales.
 - Equipo actual (público por defecto).
-- Estadísticas y logros.
+- Estadísticas y logros (públicos).
 
-El país y el equipo actual serán públicos por defecto. El jugador podrá cambiar la visibilidad del país a privado desde sus ajustes; el equipo actual se mostrará públicamente. El correo, credenciales, datos de recuperación y demás datos privados nunca aparecerán en perfiles públicos. La visibilidad pública no debe permitir editar información de otros usuarios.
+El país será público por defecto, pero el jugador podrá cambiarlo a privado desde sus ajustes. El equipo actual y las estadísticas y logros se mostrarán públicamente. El apodo gamer y el nombre público solo se mostrarán si el jugador lo autoriza. El correo, credenciales, datos de recuperación y demás datos privados nunca aparecerán en perfiles públicos. La visibilidad pública no debe permitir editar información de otros usuarios.
 
 ## Modelo inicial de datos (Supabase)
 - profiles: identidad de cuenta y datos de perfil.
